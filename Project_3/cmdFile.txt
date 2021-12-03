@@ -1,0 +1,3 @@
+1 "Pacman" 5550000 DKV 50 $12.50
+1 "Ms. Pacman" 895230 WJS 12 $3.00
+2 Pacman
